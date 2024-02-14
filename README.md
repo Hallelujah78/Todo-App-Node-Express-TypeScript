@@ -2,6 +2,7 @@
 
 ## What is it?
 
+- An API only (no frontend) with CRUD functionality for managing a todo list
 - Built using Node + Express using TypeScript
 - Built as part of Maximilian Schwarzmüller's Understanding TypeScript course on Udemy
 - The primary purpose of the project is to explore how TypeScript works with Node and Express
